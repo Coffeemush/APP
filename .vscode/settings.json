@@ -1,0 +1,4 @@
+{
+    "java.compile.nullAnalysis.mode": "automatic",
+    "cmake.sourceDirectory": "/home/roberto/Documents/GitHub/APP/coffeemush/linux"
+}
